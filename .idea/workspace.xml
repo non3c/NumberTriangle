@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6847be64-8660-4893-8481-75c6ad8c21cd" name="Changes" comment="Implemented loadTriangle method">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NumberTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumberTriangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="6847be64-8660-4893-8481-75c6ad8c21cd" name="Changes" comment="Implemented loadTriangle method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +78,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759717890334</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implemented loadTriangle method">
+      <option name="closed" value="true" />
+      <created>1759901642115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759901642115</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implemented loadTriangle method">
+      <option name="closed" value="true" />
+      <created>1759901677988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759901677988</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
